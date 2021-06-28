@@ -1,6 +1,9 @@
 # Summer 2021
 ## [Black Lab](https://pharmacy.uky.edu/people/penni-black) summer project - 
 
+**Version 0.5.0**
+Got the correlations of each gene with respect to JAK2 to print out. Next step is grabbing the "genes of interest" and doing it for STAT3
+
 **Version 0.4.0**
 Just combined the main script file with pandas intro file so I have a single, working file. I'm using TCPA to test everything. Right now, I have a list of all the gene names for use in the graph part down the road. Going to work on the stats stuff next.
 
