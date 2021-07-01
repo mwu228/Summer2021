@@ -3,6 +3,7 @@
 
 **Version 0.5.1**
 Took out all the fluff and failed tries so the code so far is readable. I have the "genes of interest for both JAK2 and STAT3 in separate arrays.
+
 **Version 0.5.0**
 Got the correlations of each gene with respect to JAK2 to print out. Next step is grabbing the "genes of interest" and doing it for STAT3
 
