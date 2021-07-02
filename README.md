@@ -1,6 +1,9 @@
 # Summer 2021
 ## [Black Lab](https://pharmacy.uky.edu/people/penni-black) summer project - 
 
+**Version 0.6.1**
+The code for the actual graph was not detailed in the Coronavirus Network Explorer paper, so I went fishing around for open sourced libraries to use. I got nodes on a graph going with the labels on each node.
+
 **Version 0.5.1**
 Took out all the fluff and failed tries so the code so far is readable. I have the "genes of interest for both JAK2 and STAT3 in separate arrays.
 
